@@ -1,0 +1,490 @@
+==========================
+x_name: aya101.en
+y_name: deepl.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.8373
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-116.6958
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms aya101.en.
+==========================
+x_name: aya101.en
+y_name: gt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.7773
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	78.2091
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+aya101.en outperforms gt.en.
+==========================
+x_name: aya101.en
+y_name: llamax.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.7925
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	52.0143
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+aya101.en outperforms llamax.en.
+==========================
+x_name: aya101.en
+y_name: m2m100.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.7930
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	52.7168
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+aya101.en outperforms m2m100.en.
+==========================
+x_name: aya101.en
+y_name: madlad.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.7090
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	149.2770
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+aya101.en outperforms madlad.en.
+==========================
+x_name: aya101.en
+y_name: nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.7962
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	28.3437
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+aya101.en outperforms nllb.en.
+==========================
+x_name: aya101.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8087
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-73.9956
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+tower.en outperforms aya101.en.
+==========================
+x_name: deepl.en
+y_name: gt.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8373
+y-mean:	0.7773
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	154.8423
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms gt.en.
+==========================
+x_name: deepl.en
+y_name: llamax.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8373
+y-mean:	0.7925
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	151.1974
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms llamax.en.
+==========================
+x_name: deepl.en
+y_name: m2m100.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8373
+y-mean:	0.7930
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	148.0901
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms m2m100.en.
+==========================
+x_name: deepl.en
+y_name: madlad.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8373
+y-mean:	0.7090
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	202.1841
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms madlad.en.
+==========================
+x_name: deepl.en
+y_name: nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8373
+y-mean:	0.7962
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	93.9127
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms nllb.en.
+==========================
+x_name: deepl.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.8373
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	34.1193
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+deepl.en outperforms tower.en.
+==========================
+x_name: gt.en
+y_name: llamax.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7773
+y-mean:	0.7925
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-35.2578
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+llamax.en outperforms gt.en.
+==========================
+x_name: gt.en
+y_name: m2m100.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7773
+y-mean:	0.7930
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-39.7877
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+m2m100.en outperforms gt.en.
+==========================
+x_name: gt.en
+y_name: madlad.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7773
+y-mean:	0.7090
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	104.9847
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+gt.en outperforms madlad.en.
+==========================
+x_name: gt.en
+y_name: nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7773
+y-mean:	0.7962
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-35.2964
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+nllb.en outperforms gt.en.
+==========================
+x_name: gt.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7773
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-126.0860
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+tower.en outperforms gt.en.
+==========================
+x_name: llamax.en
+y_name: m2m100.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7925
+y-mean:	0.7930
+ties (%):	0.8333
+x_wins (%):	0.0133
+y_wins (%):	0.1533
+
+Paired T-Test Results:
+statistic:	-1.1587
+p_value:	0.2466
+Null hypothesis can't be rejected.
+Both systems have equal averages.
+==========================
+x_name: llamax.en
+y_name: madlad.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7925
+y-mean:	0.7090
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	124.0796
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+llamax.en outperforms madlad.en.
+==========================
+x_name: llamax.en
+y_name: nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7925
+y-mean:	0.7962
+ties (%):	0.0033
+x_wins (%):	0.0000
+y_wins (%):	0.9967
+
+Paired T-Test Results:
+statistic:	-7.3943
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+nllb.en outperforms llamax.en.
+==========================
+x_name: llamax.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7925
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-112.8240
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+tower.en outperforms llamax.en.
+==========================
+x_name: m2m100.en
+y_name: madlad.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7930
+y-mean:	0.7090
+ties (%):	0.0000
+x_wins (%):	1.0000
+y_wins (%):	0.0000
+
+Paired T-Test Results:
+statistic:	124.2329
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+m2m100.en outperforms madlad.en.
+==========================
+x_name: m2m100.en
+y_name: nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7930
+y-mean:	0.7962
+ties (%):	0.0033
+x_wins (%):	0.0000
+y_wins (%):	0.9967
+
+Paired T-Test Results:
+statistic:	-6.9926
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+nllb.en outperforms m2m100.en.
+==========================
+x_name: m2m100.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7930
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-110.8927
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+tower.en outperforms m2m100.en.
+==========================
+x_name: madlad.en
+y_name: nllb.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7090
+y-mean:	0.7962
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-116.9709
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+nllb.en outperforms madlad.en.
+==========================
+x_name: madlad.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7090
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-184.4228
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+tower.en outperforms madlad.en.
+==========================
+x_name: nllb.en
+y_name: tower.en
+
+Bootstrap Resampling Results:
+x-mean:	0.7962
+y-mean:	0.8298
+ties (%):	0.0000
+x_wins (%):	0.0000
+y_wins (%):	1.0000
+
+Paired T-Test Results:
+statistic:	-72.6554
+p_value:	0.0000
+Null hypothesis rejected according to t-test.
+Scores differ significantly across samples.
+tower.en outperforms nllb.en.
+
+Summary
+If system_x is better than system_y then:
+Null hypothesis rejected according to t-test with p_value=0.05.
+Scores differ significantly across samples.
+system_x \ system_y    aya101.en    deepl.en    gt.en    llamax.en    m2m100.en    madlad.en    nllb.en    tower.en
+---------------------  -----------  ----------  -------  -----------  -----------  -----------  ---------  ----------
+aya101.en                           False       True     True         True         True         True       False
+deepl.en               True                     True     True         True         True         True       True
+gt.en                  False        False                False        False        True         False      False
+llamax.en              False        False       True                  False        True         False      False
+m2m100.en              False        False       True     False                     True         False      False
+madlad.en              False        False       False    False        False                     False      False
+nllb.en                False        False       True     True         True         True                    False
+tower.en               True         False       True     True         True         True         True
